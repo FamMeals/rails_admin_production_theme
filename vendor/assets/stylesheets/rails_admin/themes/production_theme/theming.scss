@@ -1,0 +1,28 @@
+/*
+  Customize RailsAdmin theme here.
+
+  Look at the markup in RailsAdmin and go there to get inspiration from:
+
+  http://getbootstrap.com
+
+  Test me: (actual color should be the one defined in variables.scss if you did)
+
+  body { background-color: $link-color; }
+*/
+
+
+.navbar-header {
+  background-color: darkgreen;
+}
+
+.navbar-default {
+  background-color: darkgreen;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+.navbar-default .navbar-brand {
+  color: white;
+}
+
